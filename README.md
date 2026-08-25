@@ -1,6 +1,6 @@
 # Activation Functions in Neural Networks
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the importance of **activation functions in Artificial Neural Networks (ANNs)** and explains how they enable neural networks to learn complex, non-linear relationships.
 
@@ -10,7 +10,7 @@ The project focuses on building a strong conceptual understanding of why activat
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main objectives of this project are to:
 
@@ -23,7 +23,7 @@ The main objectives of this project are to:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **make_moons** dataset from Scikit-learn.
 
@@ -48,7 +48,7 @@ The `make_moons` dataset is useful for demonstrating neural networks because the
 
 ---
 
-## 🧠 Why Do Neural Networks Need Activation Functions?
+## Why Do Neural Networks Need Activation Functions?
 
 Without activation functions, multiple layers of a neural network would effectively behave like a single linear transformation.
 
@@ -72,7 +72,7 @@ This non-linearity is one of the key reasons neural networks can solve complex p
 
 ---
 
-## 🔬 Activation Functions Covered
+## Activation Functions Covered
 
 ### 1. Sigmoid
 
@@ -140,7 +140,7 @@ It is commonly used in the output layer for **multi-class classification**.
 
 ---
 
-## 📈 Visualization
+## Visualization
 
 The notebook visualizes different activation functions to understand:
 
@@ -154,7 +154,7 @@ These visualizations make it easier to understand why different activation funct
 
 ---
 
-## 🔬 Project Workflow
+## Project Workflow
 
 The notebook follows a practical workflow:
 
@@ -171,7 +171,7 @@ The notebook follows a practical workflow:
 
 ---
 
-## 🔑 Key Concepts Covered
+## Key Concepts Covered
 
 * Artificial Neural Networks
 * Activation Functions
@@ -189,7 +189,7 @@ The notebook follows a practical workflow:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 ### Activation Functions Introduce Non-Linearity
 
@@ -213,7 +213,7 @@ For example:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **NumPy**
@@ -225,7 +225,7 @@ For example:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 After completing this project, I gained a better understanding of:
 
@@ -238,7 +238,7 @@ After completing this project, I gained a better understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible extensions include:
 
@@ -253,7 +253,7 @@ Possible extensions include:
 
 ---
 
-## 💻 Project Purpose
+## Project Purpose
 
 This project is part of my **Deep Learning learning journey**, focused on understanding the fundamental components of neural networks.
 
@@ -261,7 +261,7 @@ The goal is not only to learn how to use activation functions in frameworks such
 
 ---
 
-## ⭐ Final Takeaway
+## Final Takeaway
 
 **Activation functions are what allow neural networks to move beyond simple linear relationships.**
 
